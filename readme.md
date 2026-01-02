@@ -1,6 +1,8 @@
 # SalesBot for WhatsApp  
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
+📐 Diagramas: [Arquitetura e Fluxos](docs/diagrams/ARCHITECTURE_SalesBot_WhatsApp.md)
+
 <img width="784" height="802" alt="SalesBot" src="https://github.com/user-attachments/assets/76529b4c-9e99-49db-83c7-906f5d488c70" />
 <img width="372" height="675" alt="SalesBot" src="https://github.com/user-attachments/assets/3dc32dda-d32d-415b-9d95-fe53b2414b01" />
 <img width="372" height="675" alt="SalesBot" src="https://github.com/user-attachments/assets/fb0ecbb3-3490-47c9-8ba2-23f71eb4424c" />
